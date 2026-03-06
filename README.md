@@ -16,9 +16,9 @@ oferecendo opções de qualidade e facilitando o processo de compra.
 
 ## Funcionalidades
 
-- Registrar alimentos prontos
-- Registro e acompanhamento das calorias
-- Registro e acompanhamento da descrição
-- Registro e acompanhamento da categoria
-- Registro e acompanhamento do preço
-- Registro e acompanhamento da satisfação geral
+- Listar todas as refeições registradas
+- Encontrar refeições informando o ID associado
+- Encontrar refeições informando um nome
+- Registrar refeições no banco de dados
+- Atualizar refeições no banco de dados
+- Deletar refeições do banco de dados

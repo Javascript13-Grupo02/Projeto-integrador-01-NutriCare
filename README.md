@@ -4,9 +4,9 @@ Aplicação para registrar comida pronta, alimentação saudável.
 
 ## Sobre o Projeto
 
-Este projeto foi criado para ajudar as pessoas a se alimentarem de forma mais saudavel
-e tambem estimular uma reeducação alimentar registrando descrição, categoria, calorias, 
-preco e satisfação geral.
+Este projeto foi criado com o objetivo de realizar a venda de refeições, 
+buscando atender às necessidades dos clientes de forma prática e eficiente, 
+oferecendo opções de qualidade e facilitando o processo de compra.
 
 ## Tecnologias utilizadas
 
